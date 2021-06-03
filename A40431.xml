@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the assizes held at Northampton, August the 26th, 1690, before the Right Honourable Sir Henry Pollexfen, Lord Justice of the Common-Pleas by Sa. Freeman ...</title>
+            <author>Freeman, Samuel, 1643-1700.</author>
+         </titleStmt>
+         <extent>Approx. 35KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40431</idno><idno type="EEBO-CITATION">13044947</idno>
+  <idno type="VID">96913</idno>
+  <idno type="EEBO-PROQUEST">2240862315</idno>
+  
+            <idno type="STC">Wing F2145</idno>
+            <idno type="STC">ESTC R18426</idno>
+            <idno type="OCLC">13044947</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96913)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 739:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the assizes held at Northampton, August the 26th, 1690, before the Right Honourable Sir Henry Pollexfen, Lord Justice of the Common-Pleas by Sa. Freeman ...</title>
+                  <author>Freeman, Samuel, 1643-1700.</author>
+               </titleStmt>
+               <extent>[7], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Chiswell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. 27.</note>
+                  <note>Marginal notes and biblical references.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Pollexfen, Henry, --  Sir, 1632?-1691.</term>
+               <term type="uniform_title">Bible. --  O.T. --  Psalms LXXXII, 6 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96913:1"/>
+            <pb facs="tcp:96913:1"/>
+            <p>A SERMON Preach'd at the ASSIZES HELD AT NORTHAMPTON, <hi>August</hi> the 26th. 1690.</p>
+            <p>Before the Right Honourable Sir <hi>Henry Pollexfen,</hi> Lord Chief Justice of the <hi>Common-Pleas.</hi>
+            </p>
+            <p>By <hi>S A. FREEMAN,</hi> D. D. Rector of St. <hi>Paul</hi>'s <hi>Covent-Garden,</hi> and Chaplain in Or<g ref="char:EOLhyphen"/>dinary to Their MAJESTIES.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Chiswell,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard. 1690.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:96913:2"/>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>Carolus Alston,</hi> R. P. D. <hi>Hen.</hi> Episc. <hi>Lond.</hi> à Sacris Domesticis.</signed>
+               <dateline>
+                  <date>Septemb. <hi>8. 1690.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:96913:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:96913:3"/>
+            <pb facs="tcp:96913:3"/>
+            <head>TO THE RIGHT WORSHPFUL Thomas Catesby, Esq; HIGH-SHERIFF OF THE County of <hi>NORTHAMPTON.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEN I was prevail'd with to preach this Sermon, I had no Intentions to make it any farther publick. It is wholly in compliance with the Request, His Lordship, Your Self, and those Emi<g ref="char:EOLhyphen"/>nent Persons, the Knights and Gentlemen of the Grand Inquest, were pleas'd in so publick a man<g ref="char:EOLhyphen"/>ner to honour me with, that it comes abroad.
+<pb facs="tcp:96913:4"/> I confess, could I have thought it in any degree worthy of Your Acceptance, I should have been ve<g ref="char:EOLhyphen"/>ry glad of the opportunity to pay the Respects and Acknowledgments that are due to Your Self, and so many Worthy Persons, who (indeed with the whole County of <hi>Northampton</hi>) have come be<g ref="char:EOLhyphen"/>hind none in their Expressions and Testimonies of a sincere Affection and Zeal to Their Majesties and Their Government.</p>
+            <p>Many and wonderful have been the Delive<g ref="char:EOLhyphen"/>rances God in mercy has vouchsafed this Church and Nation; amongst which, this last, consider'd in all the Circumstances of it, may justly be rankt with the chiefest of them: No man can doubt, who considers how furiously the Jesuits drove, and how wholly our late Unhappy Prince, subje<g ref="char:EOLhyphen"/>cted himself to their Will and Councils, but that before now we had been reduc'd to the miserable Condition of the poor persecuted Protestants of <hi>France,</hi> either to be butcher'd at home, or to beg our Bread abroad, had not God been pleas'd by a wonderful Providence to deliver us out of their hands: A Deliverance so great, that we seem to want nothing but a Spirit of Love and Unity among our selves, of Gratitude to God the blessed Author, and to the King the glori<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:96913:4"/> Instrument of it, to make us an happy Peo<g ref="char:EOLhyphen"/>ple. Whoever reads the History of the Children of <hi>Israel</hi>'s Deliverance out of the Land of <hi>Ae<g ref="char:EOLhyphen"/>gypt,</hi> will find himself hard put to it to deter<g ref="char:EOLhyphen"/>mine, which was the greater wonder, their Delive<g ref="char:EOLhyphen"/>rance, or their Ingratitude under it: Who could have imagin'd, that they who had had so large an Ex<g ref="char:EOLhyphen"/>perience of the Power, and Wisdom, and Goodness of God in working Ten Miracles for their sakes, should have been so ready on every little disap<g ref="char:EOLhyphen"/>pointment, to fly in the face of God, and his Servant <hi>Moses,</hi> and even to quarrel with their Deliverance? And yet this they did; <hi>Would God we had dyed in the Land of</hi> Aegypt: <hi>Let us make us a Captain, and return into</hi> Aegypt: As if their <hi>Moses</hi> was worse than a <hi>Pharaoh;</hi> as if the Darkness and Bondage, and Cruel Hardships of <hi>Aegypt,</hi> were by much to be preferr'd before the Liberties of their Persons, the free enjoyment of their Religion, before the Pre<g ref="char:EOLhyphen"/>sence and Glory of God amongst them: These things were written for Admonitions to those that should come hereafter; and St. <hi>Jude</hi> makes this Application of them; <hi>I will put you in remem<g ref="char:EOLhyphen"/>brance, though ye once knew this, That the Lord having sav'd the People out of the
+<pb facs="tcp:96913:5"/> Land of</hi> Aegypt, <hi>afterwards destroyd them that believ'd not.</hi>
+            </p>
+            <p>What I have now to add, are, Sir, my hearty Prayers to God, to multiply upon You, Your good La<g ref="char:EOLhyphen"/>dy, and two most Virtuous Daughters, together with that Noble Family, whereinto you have so happily dispos'd one of them, all the Blessings both of this, and the future State: And that you may live long, as you have hitherto done, a sincere Lover of your Country, a Friend to the Church, an Example of Virtue and Regular Devotion, and a Pattern of unfeigned Love and Loyalty to Their Majesties, In whose Lives and Reign, all that is dear to us in this World, our Religion, our Lives, our Laws, and as to what appears to us, the whole Interest of the Protestant Religion, is in a great measure wrapt up. May God preserve Their Majesties, and bless all that wish well to our <hi>Sion.</hi> This is the hearty Prayer of all good <hi>Englishmen</hi> and Protestants. I am ever,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your very much oblig'd Humble Servant, SA. FREEMAN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:96913:5"/>
+            <head>A SERMON Preach'd at the Assizes at Northampton, <hi>Aug.</hi> 26. 1690.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALM lxxxii.v. 6.</hi>
+                  </bibl>
+                  <p>I have said ye are Gods, and ye are all the Children of the Most High.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Psalm is a patheti<g ref="char:EOLhyphen"/>cal Exhortation to Ma<g ref="char:EOLhyphen"/>gistrates of what rank and degree soever they be, to Kings, and all that are sent by them, to be faithful in the dis<g ref="char:EOLhyphen"/>charge of the trust committed to them; that without byas and partiality they see that Right prevail,<note place="margin">Vers. 3, 4.</note> and Justice be duly admini<g ref="char:EOLhyphen"/>stred;
+<pb n="2" facs="tcp:96913:6"/> that the Poor be defended, the Cause of the Fatherless and Widow heard, and that they readily undertake the patronage of op<g ref="char:EOLhyphen"/>pressed Virtue and Religion.</p>
+            <p>To this purpose the <hi>Psalmist</hi> in the Text sets before them the high and Eminent Sta<g ref="char:EOLhyphen"/>tion they are placed in, and the great Power and Authority they are invested with, above other men. <hi>I have said ye are Gods.</hi> Princes are God's Deputies and Vicegerents, They bear his name, sit in his place, are intrusted with part of his Power; And therefore are oblig'd, upon the Account both of duty and gratitude, to do his work, and to ad<g ref="char:EOLhyphen"/>minister to his glory, to behave themselves <hi>like God,</hi> in the execution of their high Of<g ref="char:EOLhyphen"/>fice and Dignity.</p>
+            <p>This is the sense of the words; and the Royal Prophet, that he might give them their full weight and Authority, and effectu<g ref="char:EOLhyphen"/>ally engage the Rulers of the Earth to a due attention to them, with great Solem<g ref="char:EOLhyphen"/>nity and Majesty brings in God himself as preaching to them. <hi>I have said ye are Gods, and ye are all the Children of the Most High.</hi>
+            </p>
+            <pb n="3" facs="tcp:96913:6"/>
+            <p>They are call'd so by God; but had not the Expression been justified by so great an Authority, this threefold rational Account might be given of it.</p>
+            <p n="1">1. As all Power and Authority is from God: This both Scripture and Reason war<g ref="char:EOLhyphen"/>rant to us. In the <hi>Old Testament</hi> Princes are stil'd in a peculiar manner <hi>God's Servants,</hi>
+               <note place="margin">1 Sam. 24.6. ch. 26.9.</note>
+               <hi>God's Anointed,</hi> and are said <hi>to Reign by God:</hi> In the <hi>New,</hi> Magistracy is call'd <hi>God's Ordinance;</hi>
+               <note place="margin">Rom. 13.2, 4.</note> and the Supream Powers, <hi>God's Ministers.</hi> And can we think it at all consistent with the Divine Goodness, that when he gave Man a being, he should take no care of his well being? That he should make no provision for the preservation of Ju<g ref="char:EOLhyphen"/>stice and Righteousness, and Peace a<g ref="char:EOLhyphen"/>mongst Men, wherein the happiness of Societies do consist, and without which Mankind would be so many Bears and Wolves tearing and devouring one ano<g ref="char:EOLhyphen"/>ther? Can we think that God who hath esta<g ref="char:EOLhyphen"/>blish'd Order amongst all his Creatures; In the Angelical Nature, the several Ranks of <hi>Angels</hi> and <hi>Arch-Angels, Principalities, Pow<g ref="char:EOLhyphen"/>ers</hi>
+               <pb n="4" facs="tcp:96913:7"/> and <hi>Dominions;</hi> In the Celestial Bodies, The Sun to rule the Day, and the Moon the Night, and one Star to differ from another Star in glory; In lesser Societies, Parents to bear rule over their Children, and Husbands to be head of their Wives; hath yet left the more general and publick state of Man<g ref="char:EOLhyphen"/>kind, the greater Bodies, Nations and King<g ref="char:EOLhyphen"/>doms, to shift for themselves, without ap<g ref="char:EOLhyphen"/>pointing the means for their Order and Peace, their Preservation and Happiness?</p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Pet. 2.13, 14.</note>I know St. <hi>Peter</hi> calls Magistracy in all the degrees of it, <hi>the Ordinance of man;</hi> And it may be so call'd, either in respect of the Subject wherein it is lodg'd, which is man; or in respect of the end for which it is appointed, which is the good of man; or more espe<g ref="char:EOLhyphen"/>cially in respect of the several species or sorts of Government in several Countries, which depend upon <hi>Humane</hi> compact and agreement: Government in general is <hi>the Ordinance of God;</hi> but whether it shall be this or that, be absolute or limited, admi<g ref="char:EOLhyphen"/>nistred by one or more, Elective or He<g ref="char:EOLhyphen"/>reditary, is an Human Constitution; Ac<g ref="char:EOLhyphen"/>cording as it is at first mutually concerted
+<pb n="5" facs="tcp:96913:7"/> by the Community, betwixt the Person that is to govern, and the Persons that are to be governed, so is the frame of the Govern<g ref="char:EOLhyphen"/>ment for the most part in every Kingdom. And as for that branch of the Magistrates Power, <hi>a power to punish capitally,</hi> so abso<g ref="char:EOLhyphen"/>lutely necessary for the ends of Government, although God is more especially the Author of it, (the People having not power o<g ref="char:EOLhyphen"/>ver their own Lives, cannot give it to ano<g ref="char:EOLhyphen"/>ther) yet as the People are a means to conveigh, and determine it to be in this or that particular Person or Persons, and to limit the exercise of it to such or such Cases and Crimes as the exigences of State shall require, may that also come under the no<g ref="char:EOLhyphen"/>tion of <hi>an Ordinance of Man.</hi>
+            </p>
+            <p>But then when the particular frame and model of a Government is agreed upon, and sworn to, it becomes as much the Ordinance of God, as the Magistratical Power in gene<g ref="char:EOLhyphen"/>ral is; and is to be as conscientiously admini<g ref="char:EOLhyphen"/>stred by the Prince, and as religiously observ'd by the People, as far as it contradicts no Di<g ref="char:EOLhyphen"/>vine Law, as if, like that of the <hi>Jews,</hi> both the Government and Governours had been
+<pb n="6" facs="tcp:96913:8"/> of God's own immediate direction and ap<g ref="char:EOLhyphen"/>pointment; And therefore St. <hi>Peter</hi> in that place where he calls Government the Ordi<g ref="char:EOLhyphen"/>nance of man, exhorts to submission upon a Principle of Conscience; Submit your selves to <hi>every Ordinance of man for the Lord's sake.</hi>
+            </p>
+            <p n="2">2. As Princes are sometimes plac'd in the Throne by the immediate direction of God, or some signal Providence evidently bear<g ref="char:EOLhyphen"/>ing upon it the marks of a Divine Hand. So it was with the Kings of <hi>Israel</hi> and <hi>Judah;</hi> God was pleas'd to do more for that Peo<g ref="char:EOLhyphen"/>ple than any other Nation: They were un<g ref="char:EOLhyphen"/>der his more immediate care; their Go<g ref="char:EOLhyphen"/>vernment of his own prescribing; their Laws of his own enacting, and their Kings of his own anointing: Upon this Account their Kings in a peculiar sense might be call'd <hi>Gods, and the Children of the Most High.</hi> And though so much cannot be said of other Princes, yet this we may safely say, That <hi>when a whole Nation is at stake,</hi> and <hi>the publick safe<g ref="char:EOLhyphen"/>ty in extreme danger,</hi> God is more concern'd, than a bare permission amounts to, in ordering
+<pb n="7" facs="tcp:96913:8"/> the Fate and Revolutions of States and King<g ref="char:EOLhyphen"/>doms, <hi>Placing or displacing Princes,</hi> as it seems best to his Infinite Wisdom. Some Philoso<g ref="char:EOLhyphen"/>phers there have been, that have disputed God's care over particular persons; but I do not remember any that ever called into que<g ref="char:EOLhyphen"/>stion his concernment for publick Societies and Communities of Men: and sometimes God is so conspicuously visible in the Chan<g ref="char:EOLhyphen"/>ges and Alterations that are made in the Na<g ref="char:EOLhyphen"/>tions of the World, and some Occurrences do bear upon them so apparent strokes of a Divine Goodness, Wisdom and Power, that he must be a bruitish Man, and a Fool,<note place="margin">Psal. 6.26.</note> as the Psalmist speaks, who does not perceive that they are God's doing. <hi>He rules in the kingdoms of men, and giveth them to whomsoever he will,</hi>
+               <note place="margin">Chap. 4.32.</note> says the Prophet <hi>Daniel. He pulls down Kings,</hi> and <hi>sets up Kings;</hi> He hath the very <hi>Hearts of Kings in his hands,</hi> and <hi>turns them as the ri<g ref="char:EOLhyphen"/>vers of waters;</hi> raising up some for the de<g ref="char:EOLhyphen"/>fence and protection of his Truth, and rai<g ref="char:EOLhyphen"/>sing up others to shew his Power upon them in their destruction,<note place="margin">Exod. 9.16.</note> as he is pleas'd himself to tell us in the instance of <hi>Pharaoh: For this cause have I raised thee up, for to shew in thee my
+<pb n="8" facs="tcp:96913:9"/> power, and that my name may be declared throughout all the earth.</hi>
+            </p>
+            <p n="3">3. As Princes ought to employ their Power and Authority according to God's Will, and after the Pattern he sets them in the Government of the World. And how this is to be done, I shall shew in the follow<g ref="char:EOLhyphen"/>ing particulars:</p>
+            <p>They govern like God,</p>
+            <p n="1">1. When they employ their Power and Authority for promoting the Glory of God; and that chiefly consists in maintaining his true Religion and Worship. This God him<g ref="char:EOLhyphen"/>self takes care to vindicate, <hi>Isaiah</hi> 42.8. <hi>I am the LORD, that is my name; and my glo<g ref="char:EOLhyphen"/>ry will I not give to another, neither my praise to graven images.</hi> And we may observe, that the great End God aimed at, in all the gracious Revelations of his Will to the world, has been to beat down Idolatry, <hi>viz.</hi> The wor<g ref="char:EOLhyphen"/>ship of false gods, and the worship of the True God after a false manner; and to esta<g ref="char:EOLhyphen"/>blish the Belief and Adoration of the One True God, and the One Mediator between
+<pb n="9" facs="tcp:96913:9"/> God and Man, Christ Jesus; and to in<g ref="char:EOLhyphen"/>troduce such a worship of Them, as is suitable to their Nature, not under any Corporeal Representations, but <hi>in Spirit and in Truth.</hi> This is the Glory of God, that has always been the great exercise of His Wisdom and Power, to keep up in the World: And this also, after the Example of God, from whom Princes hold their Patent of Governing, ought they to look upon as their peculiar pro<g ref="char:EOLhyphen"/>vince, to secure and maintain the True Religion, which is the only advance<g ref="char:EOLhyphen"/>ment of God's Glory: Now what that is, I need not inform this Auditory. Bles<g ref="char:EOLhyphen"/>sed be God, we have the True Reli<g ref="char:EOLhyphen"/>gion, as it was delivered by Christ and his Apostles, establish'd among us, pure and free from all Forgeries and Inven<g ref="char:EOLhyphen"/>tions of Men.</p>
+            <p>Here's no drowning Religion in sha<g ref="char:EOLhyphen"/>dow and formality, not burying her un<g ref="char:EOLhyphen"/>der a load of Ritual and Ceremonial Rubbish; no dressing up Religion in a
+<pb n="10" facs="tcp:96913:10"/> flanting Pomp to set her off, or a gaudy Garb to recommend her, much less in such Fantastical Rites, such Anti<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k Vest<g ref="char:EOLhyphen"/>ments and Gesticulations that may justly render her ridiculous and contemptible; but her Ceremonies are few, and what may be alter'd when Authority shall think fit; but those that are, are decent, coun<g ref="char:EOLhyphen"/>tenanc'd by Primitive Antiquity; and very much becoming the Gravity and Sobrie<g ref="char:EOLhyphen"/>ty of Religion.</p>
+            <p>Here are no Half-Communions, no more Sacraments thrust upon us than our Lord himself instituted; and yet those left whole and entire for our use and comfort that he did: no Prayers in an unknown Tongue, which the Votary, it may be, neither minds not understands; no praying to Saints or Angels; no ado<g ref="char:EOLhyphen"/>ring Images, Pictures and Reliques; no worshipping the Creature besides, or more than the Creator,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> which they do; who in all their Publick Offices of De<g ref="char:EOLhyphen"/>votion, for one Prayer to God, have or<g ref="char:EOLhyphen"/>der'd
+<pb n="11" facs="tcp:96913:10"/> ten to be made to the Blessed Vir<g ref="char:EOLhyphen"/>gin.</p>
+            <p>Here's no Doctrine obtruded on our Faith that's contrary to Reason, nay, to Sense, to all our Senses; no Practices allow'd that are forbidden by God; no Pardons to be bought, no Indulgences to be purchased, no expunging any one Commandment out of the Decalogue, or contriving Arts and Devices to make void the rest; no leaving Virtue and Vice as uncertain things, to depend on the Arbitrary Will of the Pope, and his Casuists, to be Sainted or damn'd by them according as they promote or ob<g ref="char:EOLhyphen"/>struct the Glory and Interest of Holy Church: But as her Devotions are pure and spiritual, having God and him only for their Object; so her Doctrine is sound and Orthodox, having Christ for its Cor<g ref="char:EOLhyphen"/>ner-stone, and the Prophets and Apostles for its Foundation.</p>
+            <p>This Religion, after it had been for some, God knows, too many years, load<g ref="char:EOLhyphen"/>ed and obscured with Popish Trash and
+<pb n="12" facs="tcp:96913:11"/> Rubbish, was by the pious Wisdom of our Gracious and Religious Princes, and the blessing of God upon the pains of our Forefathers, and at the expence of the very Blood of many of them, regu<g ref="char:EOLhyphen"/>larly reform'd and restor'd to this King<g ref="char:EOLhyphen"/>dom; and may Kings and Queens, to the glory of God, and the salvation of Their own, and Their Peoples Souls, be ever the Nursing-Fathers, and Nursing-Mothers of it, and to the utmost of Their Power spread and propagate it throughout the World.</p>
+            <p n="2">(2.) When they employ their Power and Authority, in the impartial admi<g ref="char:EOLhyphen"/>nistration of Justice, in shewing mercy where the Case deserves it; in bearing long, forgiving often, but severely crushing all bold and daring Wickedness. The Cause that is just in it self, is always to be so to them, be it the Cause of who it will; The Case that is compassiona<g ref="char:EOLhyphen"/>ble, is to be relieved with mixtures of mercy; but where the nature of the
+<pb n="13" facs="tcp:96913:11"/> Crime, or the incorrigibleness of the Offender, or the Ends of Government re<g ref="char:EOLhyphen"/>quire it, the Law is to have its full course, and Punishment, though Capi<g ref="char:EOLhyphen"/>tal, to be duly executed. And because the Examples of Princes are more power<g ref="char:EOLhyphen"/>ful than their Laws, they must be vir<g ref="char:EOLhyphen"/>tuous themselves, that they may the more effectually promote it in their People. <hi>The life of a Prince is the calling of other mens lives to an account:</hi>
+               <note place="margin">Vita Principis censure est. <hi>Plin.</hi> Paneg.</note> His Example se<g ref="char:EOLhyphen"/>cures the reputation of Vertue, brings it into vogue, and makes it fashionable; and those who are so apt in every thing else to imitate him, cannot for shame not conform to him in their Manners: In all this they have God for their Pat<g ref="char:EOLhyphen"/>tern, who is no Respector of Persons, whose Mercy is over all his Works, who delights in pardon, who is infinitely holy himself, and will by no means clear the obstinately guilty; <hi>punishing to the fourth Generation,</hi> but <hi>keeping mercy for thousands.</hi>
+            </p>
+            <p n="3">
+               <pb n="14" facs="tcp:96913:12"/>(3.) When they employ their Power for the publick Good and Safety; This was God's chiefest end in making Man, he made him to make him happy; God had no need of the Services of Men, they could make no accessions to his Glory, who is in himself a perfect Self-sufficiency and compleat Happiness; It was only the fertile benignity of his Nature that ever delights in communicating it self, and doing good, that prompted him to com<g ref="char:EOLhyphen"/>mand them into being; And ever since the Creation of the first Man, it has been the chief design of all the Dispen<g ref="char:EOLhyphen"/>sations of his Providence towards Men, to make them happy; that is, to beat down Vice, and to uphold Righteousness in the World, upon which, both Reason and Experience, as well as Revelation, inform us, the true Interests of Men, both private and publick, do depend. And now how Divine and God like is that Prince, who makes the Interests of his People, his own; who has no By-end to promote, no little Turn to serve, but en<g ref="char:EOLhyphen"/>gages
+<pb n="15" facs="tcp:96913:12"/> the Power and Authority God hath given him, wholly for his Peoples good, and is ready on occasion to sacrifice him<g ref="char:EOLhyphen"/>self for their safety! A publick Spirit is God's Seal of Authority, a natural and pregnant discovery of God in the Soul; It is the nature of Heaven to be always imparting, of God, to be always doing good. Accordingly we find the Highest Instances of this in Persons eminently call'd by God to the Seat of Authority: In <hi>Mor<g ref="char:EOLhyphen"/>decai,</hi>
+               <note place="margin">Est. 10.3.</note> seeking cordially the weal of his People, and speaking peace to them: In <hi>Moses,</hi>
+               <note place="margin">Exod. <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note>
+               <hi>Praying God rather to blot him out of his Book, than not to pardon his People's</hi> In <hi>David,</hi>
+               <note place="margin">2 Sam. 24.27.</note>
+               <hi>Against me and my Father's House let thine hand be, and not against these Sheep.</hi> And it is noted of <hi>Augustus Caesar,</hi> that he was no sooner possess'd of the Empire, but he laid aside all his former Arts of Fraud and Tyranny, and addicted himself in<g ref="char:EOLhyphen"/>tirely to the love, defence, and advance<g ref="char:EOLhyphen"/>ment of the Commonwealth,<note place="margin">Boeclerus <hi>Diff. Polit. in</hi> Caes. Aug.</note>
+               <hi>at satis con<g ref="char:EOLhyphen"/>staret,</hi> says one, <hi>Divino quodam munere, mu<g ref="char:EOLhyphen"/>tatum &amp; formatum tantum Principem,</hi> that
+<pb n="16" facs="tcp:96913:13"/> it might sufficiently appear that so great a Prince was not set up and chang'd but by a special gift from God: And indeed a Prince has no true Interest distinct from that of his People; His highest glory is their safety and prosperity; And that Go<g ref="char:EOLhyphen"/>vernment will be sure to stand the longest, and grow up to the greatest height, that's most deeply rooted in the Affections and Interests of the People. It was not more greatly than truly said by a very Wise and Learned Man of our own, <hi>That that Prince whose Counsels and Resolutions run counter to the Interests and Inclinations of his People,</hi>
+               <note place="margin">Sir <hi>W. T</hi>'s Misc. p. <hi>166.</hi>
+               </note>
+               <hi>might by such methods make his Mi<g ref="char:EOLhyphen"/>nisters great Subjects, but they could never make him a great Prince.</hi>
+            </p>
+            <p n="4">(4.) When they employ their Power and Authority for the rescue of the Mi<g ref="char:EOLhyphen"/>serable, and delivery of the Oppressed: God in the <hi>Old Testament</hi> glories in no<g ref="char:EOLhyphen"/>thing more, than in being stil'd the <hi>De<g ref="char:EOLhyphen"/>liverer</hi> of his People, and our Saviour in the <hi>New</hi> clearly manifested himself to be
+<pb n="17" facs="tcp:96913:13"/> God, and the Son of God, by under<g ref="char:EOLhyphen"/>taking the Redemption of Mankind. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, It is a divine thing to be compassionate; and in nothing more do Princes resemble and re<g ref="char:EOLhyphen"/>present God, than when by their Wis<g ref="char:EOLhyphen"/>dom and Courage they give life to an expiring Church, and a sinking State. Such an one was <hi>Moses</hi> to the <hi>Jews</hi> after their <hi>Aegyptian</hi> Oppression, <hi>Gideon</hi> after the <hi>Midianitish</hi> Slavery, <hi>David</hi> after <hi>Saul</hi>'s Injustice, <hi>Nehemiah</hi> and <hi>Zerobabel</hi> after the <hi>Babylonish</hi> Captivity; such was <hi>Constantine the Great</hi> to the Primitive Christians after the Heat of the Ten Persecutions; <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the VIIth to this Nation after the bloody Wars betwixt the Two Houses of <hi>York</hi> and <hi>Lancaster;</hi> Queen <hi>Elizabeth</hi> to this Church after the Fiery Tryal in Queen <hi>Mary</hi>'s days. And such an one—; It is not long since we were writing <hi>Ickabod</hi> upon Church and State, since our Can<g ref="char:EOLhyphen"/>dlestick was removing, and the Glory de<g ref="char:EOLhyphen"/>parting; since Popery and Superstition was setting up in the Corners of our Streets,
+<pb n="18" facs="tcp:96913:14"/> and every man kickt out of Favour and Office that did not fall down to that Unhallow'd Idol; The Mask indeed was <hi>Liberty,</hi> but the Design <hi>Slavery</hi> to all but themselves: and had the Nation been catcht with that Bait, it would soon have understood what they meant by <hi>Li<g ref="char:EOLhyphen"/>berty,</hi> a Liberty to <hi>recant</hi> or <hi>burn;</hi> It is not long since all our Laws were in dan<g ref="char:EOLhyphen"/>ger to be cancell'd by an Illegal Dispen<g ref="char:EOLhyphen"/>sing Power, all our Liberties to be swal<g ref="char:EOLhyphen"/>lowed up in the Gulf of a bottomless and boundless Prerogative, our Lives and Estates at mercy, and our Charters and Franchises at will and pleasure. But thanks be to God, who hath rais'd us up a Deli<g ref="char:EOLhyphen"/>verer in our distress, who hath given us a prospect of a long and lasting conti<g ref="char:EOLhyphen"/>nuance of our Holy Reformed Religion amongst us; who hath restored to us the free course of our Laws, and therewith all true and desireable Liberty, and hath banish'd Popery and Arbitrary Power, those <hi>Strangers and Foreigners in our Land,</hi> for ever out of it; blessed be God, who
+<pb n="19" facs="tcp:96913:14"/> hath hitherto preserv'd Him whom he rais'd up for our Deliverance, who hath co<g ref="char:EOLhyphen"/>ver'd His head in the day of Battel, who hath crown'd Him with Victory and Suc<g ref="char:EOLhyphen"/>cess, to the Confusion of the Enemies of God and Religion, and the great Salva<g ref="char:EOLhyphen"/>tion of his Church and People.</p>
+            <p>From what hath been said, I shall draw three or four Inferences that may be of good use to us, and conclude.</p>
+            <p n="1">1. <hi>I have said ye are Gods,</hi> obliges Princes to behave themselves suitably to their high Station and Dignity; to walk worthy of God who hath plac'd them on the Throne of Majesty, with all that Justice and Mer<g ref="char:EOLhyphen"/>cy, holiness of life, zeal for God's Glory, and concern for the Publick Good, as be<g ref="char:EOLhyphen"/>comes those who bear his Name, and partake of his Power: As in God, his Almighty Power and Wisdom are always in conjunction with his Infinite Goodness, and receive Laws and Rules from it, with<g ref="char:EOLhyphen"/>out which they would not be Perfections,
+<pb n="20" facs="tcp:96913:15"/> but degenerate, the one into Rage, the other into Subtilty; so it is in Princes, when Power and Goodness meet, they nearly resemble God; but Power separated from Goodness, becomes nothing else but Tyranny and Armed Wickedness, or, if you will, that <hi>Manichaean</hi> God, whom they made the Author of all the Evil in the World: Accordingly those Princes, who misimploy their Power, and have no re<g ref="char:EOLhyphen"/>gard to those great and good Ends for which they are entrusted with it, but make use of it, to mischief and oppress, instead of benefiting Mankind, do of <hi>Gods</hi> become <hi>Devils,</hi> whose Nature they partake of, and whose Works they do.</p>
+            <p n="2">2. <hi>I have said ye are Gods,</hi> obliges Subjects no less to yield all due honour and subjection to them as unto God. The Scripture is very strict in injoyning <hi>honour and reve<g ref="char:EOLhyphen"/>rence</hi> to them; we are commanded <hi>to fear the King, not to curse him,</hi> no, <hi>not in our thoughts; not to revile the Gods, not to speak evil of them; to pay tribute to them, to obey
+<pb n="21" facs="tcp:96913:15"/> their just Laws; to render unto</hi> Caesar <hi>the things that are</hi> Caesars. How justifiable therefore soever it may be for Subjects, when Princes assume to themselves a power that of right belongs not to them, and make use of it to enslave and destroy the Community, not to obey their will, and resist their force: It cannot in the least be so, when they oppose their Le<g ref="char:EOLhyphen"/>gal Authority and just Power. Here they <hi>that resist the Powers,</hi>
+               <note place="margin">Rom. 13.2.</note>
+               <hi>resist the Ordinance of God, and they that resist shall receive to them<g ref="char:EOLhyphen"/>selves damnation.</hi>
+            </p>
+            <p n="3">3. <hi>I have said ye are Gods,</hi> lays like<g ref="char:EOLhyphen"/>wise an obligation on all subordinate Magistrates and Ministers of Justice; That as in respect of their Office and Dignity they also may be stil'd <hi>Gods,</hi> so they be no less careful to act <hi>like God</hi> in the discharge of their Trust.</p>
+            <p>From what hath been said, should I take a review of the Particulars, I might easily draw the Character of an <hi>Upright
+<pb n="22" facs="tcp:96913:16"/> Judge,</hi> as I have done of a <hi>God-like King:</hi> But this would be altogether needless in Your <hi>Lordship's presence,</hi> whose great Abilities and known Inte<g ref="char:EOLhyphen"/>grity in all, in the worst of times, have rais'd you above both our Directions and Commendations.</p>
+            <p>But give me leave to become an hum<g ref="char:EOLhyphen"/>ble and earnest Petitioner to you all in general, who are entrusted by God and the King, with the Justice and Peace of the Nation, that you would not <hi>bear the Sword of God in vain;</hi> that, <hi>like God,</hi> you would make use of your Power and Au<g ref="char:EOLhyphen"/>thority, to dash Vice, and to revive the practice of poor despis'd and neglected Virtue. You know our Dangers have been very great, and are so still; from what Quarter soever they come, or by what Hands soever they are brought up<g ref="char:EOLhyphen"/>on us, our Sins are the cause of them: God has several ways to chastise and pu<g ref="char:EOLhyphen"/>nish a wicked Nation; Sometimes he sends a sudden Fire, and that consumes a great
+<pb n="23" facs="tcp:96913:16"/> part of its Treasure; sometimes a violent Earthquake, or Inundation, and that swal<g ref="char:EOLhyphen"/>lows up a great part of its Land; some<g ref="char:EOLhyphen"/>times a general Plague, and that sweeps mul<g ref="char:EOLhyphen"/>titudes of its Inhabitants into their Graves; sometimes he suffers a Spirit of Discord and Dissention to go forth and rage in it, till it breaks out into a flame, and the whole Community be consum'd and reduc'd to Ashes; sometimes he lets loose the Reins to the Lusts and Passions of a misguided Prince, and then he becomes, instead of <hi>the Minister of God for good,</hi> the Author of all Evils, and sometimes of destruction to it; sometimes he stirs up a Potent Fo<g ref="char:EOLhyphen"/>reigner, and makes him the Instrument of his Fierce displeasure against it: Now all this, is not because God delights in such severe proceedings, but because the Cry of a People's Sins is great, and gone up to Hea<g ref="char:EOLhyphen"/>ven, and has awak'd the Justice and Indig<g ref="char:EOLhyphen"/>nation of God against them. And as there are some particular personal Sins that do more than others waste the Conscience, and drive away God's Holy Spirit from a
+<pb n="24" facs="tcp:96913:17"/> man, so there are some National Sins that in a high degree, not only dispose a Na<g ref="char:EOLhyphen"/>tion for Ruine, but set God against it: <hi>What Peace,</hi> said <hi>Jehu</hi> to <hi>Joram, so long as the Whoredoms of thy Mother</hi> Jezebel <hi>and her Witchcrafts are so many?</hi> What Peace, so long as Atheism and Profaneness, Swear<g ref="char:EOLhyphen"/>ing, Perjury, Adultery, Drunkenness, and all sorts of Debauchery and Lewdness of Manners, do so brave it amongst us? These Vices, when they become National, as they do by the general practice of them, or the Practice of those in high and emi<g ref="char:EOLhyphen"/>nent Places, or the Impunity of the Guil<g ref="char:EOLhyphen"/>ty, do not only naturally tend to enfee<g ref="char:EOLhyphen"/>ble and dis-spirit, and cause a languishing in a Nation, but greatly provoke God to become that Nation's Enemy. For these Sins,<note place="margin">Hos. 4.1, 2, 3.</note> says the Prophet <hi>Hosea, The Lord hath a Controversie with the Inhabitants of the Land, and for these shall the Land mourn.</hi> Let me therefore beseech you, let me conjure you, as you will answer it to God, and the King, from whom you have receiv'd your Commission; as you
+<pb n="25" facs="tcp:96913:17"/> would avoid the being accessary to other mens Sins, and the being involv'd in their Punishments; as you desire to see our Dangers remov'd, our Enemies to flee be<g ref="char:EOLhyphen"/>fore us, His Majesty to return with Victo<g ref="char:EOLhyphen"/>ry and Success, and Happiness and Peace, and the True Religion to flourish in our days, and to be entail'd on our Posterity: Let me conjure you by all that is Sacred and dear to you, as you have any regard to the glory of God, and the Salvation of your own, and other mens Souls, that you would in your several Places and Stations, to the utmost of your power and ability, avoid, discountenance, sup<g ref="char:EOLhyphen"/>press and punish these wasting Abomina<g ref="char:EOLhyphen"/>tions: It is Their Majesties Pleasure, and they have made it publick by Their Let<g ref="char:EOLhyphen"/>ters, That the Laws shall be put in Exe<g ref="char:EOLhyphen"/>cution against these Crying and Provoking Enormities; and I must needs say, If <hi>England</hi> be not reform'd from them, it will lie mostly at the Magistrates door, and God will require it at their hands.</p>
+            <p n="4">
+               <pb n="26" facs="tcp:96913:18"/>4. I have but one word more; <hi>I have said ye are Gods,</hi> calls upon us to bless God, who in his good Providence hath set over us Princes, that present a fair Image of his own Divinity; who employ Their Power for the accomplishing those great and noble Ends for which it was com<g ref="char:EOLhyphen"/>mitted to them; who, though in a far lower degree, have like God, been Be<g ref="char:EOLhyphen"/>nefactors to the World; and like the Son of God, Saviours of Mankind; whose care it is to protect the True Religion, and to suppress Idolatry and Vice; In whose Laws Justice reigns, and in whose Example Virtue and Religion triumph. May the glory of their Actions out<g ref="char:EOLhyphen"/>shine that of their Diadems; and may the Goodness and Wisdom of their Govern<g ref="char:EOLhyphen"/>ment fall short of none but that of God's; may they ever continue the De<g ref="char:EOLhyphen"/>fenders of our Laws, and our Religion, and when they die, (for die they must like other men) may they exchange Their Earthly Crowns for those that are
+<pb n="27" facs="tcp:96913:18"/> Eternal, and reign like Gods, in Im<g ref="char:EOLhyphen"/>mortal Glory.</p>
+            <closer>Now to the King Eternal, Invisible, the only Wise God, King of Kings, and Lord of Lords, be all praise and glory hoth now and for evermore.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>A Sermon preached before the Queen, at <hi>Whitehall,</hi> on the 16th day of <hi>July,</hi> 1690. being the Monthly Fast. By the Right Reverend Father in God, <hi>Gilbert,</hi> Lord Bishop of <hi>Sarum.</hi>
+            </p>
+            <p>An Account of the Ceremony of Investing His Electoral Highness of <hi>Brandenburgh</hi> with the Order of the Garter. Per<g ref="char:EOLhyphen"/>form'd at <hi>Berlin</hi> on the 6th of <hi>June,</hi> 1690. by <hi>James John<g ref="char:EOLhyphen"/>ston,</hi> Esq; His Majesty's Envoy Extraordinary to His Electoral Highness, and Principal Commissioner. And <hi>Gregory King,</hi> Esq; the other Commissioner for this Investiture. With the Speeches made at this Solemnity by the said Mr. <hi>Johnston,</hi> and Monsieur <hi>Fulks,</hi> Minister of State to His Electoral Highness.</p>
+            <p>Both Printed for <hi>Richard Chiswell,</hi> at the <hi>Rose</hi> and <hi>Crown</hi> in St. <hi>Paul</hi>'s Church-Yard.</p>
+            <pb facs="tcp:96913:19"/>
+            <pb facs="tcp:96913:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
